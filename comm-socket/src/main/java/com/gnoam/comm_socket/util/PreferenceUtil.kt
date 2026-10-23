@@ -1,4 +1,4 @@
-package com.example.sockettestapp
+package com.gnoam.comm_socket.util
 
 import android.content.Context
 import android.content.SharedPreferences
